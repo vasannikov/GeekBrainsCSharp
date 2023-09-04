@@ -1,0 +1,14 @@
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\bin\Debug\net7.0\seminar1task1.2.exe
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\bin\Debug\net7.0\seminar1task1.2.deps.json
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\bin\Debug\net7.0\seminar1task1.2.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\bin\Debug\net7.0\seminar1task1.2.dll
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\bin\Debug\net7.0\seminar1task1.2.pdb
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.dll
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\refint\seminar1task1.2.dll
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.pdb
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\seminar1task1.2.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.2\obj\Debug\net7.0\ref\seminar1task1.2.dll
