@@ -23,4 +23,3 @@
     int answer = Calculator(number1, number2, operation);
     Console.WriteLine("Результат операции:");
     Console.WriteLine(answer);
-
