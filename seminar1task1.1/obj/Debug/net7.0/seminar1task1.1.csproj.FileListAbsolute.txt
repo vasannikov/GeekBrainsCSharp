@@ -12,3 +12,17 @@ C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCS
 C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.pdb
 C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.genruntimeconfig.cache
 C:\Users\vladi\OneDrive\Документы\Учёба\GeekBrains\C#\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\ref\seminar1task1.1.dll
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\bin\Debug\net7.0\seminar1task1.1.exe
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\bin\Debug\net7.0\seminar1task1.1.deps.json
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\bin\Debug\net7.0\seminar1task1.1.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\bin\Debug\net7.0\seminar1task1.1.dll
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\bin\Debug\net7.0\seminar1task1.1.pdb
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.dll
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\refint\seminar1task1.1.dll
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.pdb
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\seminar1task1.1.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Документы\GeekBrains\GeekBrainsCSharp\seminar1task1.1\obj\Debug\net7.0\ref\seminar1task1.1.dll

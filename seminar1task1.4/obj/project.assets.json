@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документы\\Учёба\\GeekBrains\\C#\\GeekBrainsCSharp\\seminar1task1.4\\seminar1task1.4.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документы\\GeekBrains\\GeekBrainsCSharp\\seminar1task1.4\\seminar1task1.4.csproj",
       "projectName": "seminar1task1.4",
-      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документы\\Учёба\\GeekBrains\\C#\\GeekBrainsCSharp\\seminar1task1.4\\seminar1task1.4.csproj",
+      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документы\\GeekBrains\\GeekBrainsCSharp\\seminar1task1.4\\seminar1task1.4.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документы\\Учёба\\GeekBrains\\C#\\GeekBrainsCSharp\\seminar1task1.4\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документы\\GeekBrains\\GeekBrainsCSharp\\seminar1task1.4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
